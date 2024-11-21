@@ -3,7 +3,7 @@
 const username = prompt("Enter your name : ");
 
 function greetUser(name) {
-    console.log(`Hello, ${name}`);
+    console.log(`Bonjour, ${name}`);
     takeOrder();
 }
 

@@ -1,0 +1,22 @@
+{
+  "name": "mastering-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudeeph03/mastering-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudeeph03/mastering-git/issues"
+  },
+  "homepage": "https://github.com/sudeeph03/mastering-git#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

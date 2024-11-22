@@ -2,6 +2,8 @@
 
 const username = prompt("Enter your name : ");
 
+// Hello Everybody this is Sudeep, I wrote this code myself
+
 function greetUser(name) {
     console.log(`Bonjour, ${name}`);
     takeOrder();
